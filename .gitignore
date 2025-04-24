@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variable files
+.env
+.flaskenv
+
+# Secrets
+client_secret.json
+
+# VS Code settings
+.vscode/
+
+# Python egg info
+*.egg-info/
+dist/
+build/
+
+# Logs and database
+*.log
+*.sqlite3
+*.db
+
+# Pytest cache
+.pytest_cache/
